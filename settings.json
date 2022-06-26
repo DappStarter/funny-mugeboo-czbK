@@ -1,0 +1,11 @@
+{
+    "name": "cheddy",
+    "blocks": {
+        "/blockchain/polygon": true,
+        "/blockchain/polygon/solidity": true,
+        "/framework/react": true,
+        "/category/file_storage/core-ipfs": true,
+        "/category/file_storage/core-ipfs/mode": "folder",
+        "/category/collection/core-entity": true
+    }
+}
